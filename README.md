@@ -18,4 +18,3 @@ BIBTEX:
 >  journal={arXiv preprint arXiv:1809.09332},
 >  year={2018}
 >}
-
